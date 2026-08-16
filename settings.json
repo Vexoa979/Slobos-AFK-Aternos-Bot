@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "IRVSEVER.aternos.me",
+    "ip": "IRVSEVER.aternos.me:61927",
     "port": 61927,
     "version": "",
     "try-creative": false
